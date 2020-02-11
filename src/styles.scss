@@ -1,9 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
-.yellow {
+.bg-yellow {
   color: #f7c32f;
 }
 
-.blue {
+.bg-blue {
   color: #1f87c5;
+}
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
